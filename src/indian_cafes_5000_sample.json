@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Koregaon Park Brew Co.",
+    "cafe-id": "PUN-0001",
+    "rating": 4.6,
+    "description": "Leafy KP hangout pouring specialty espresso and cold brews with artisanal bakes.",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5362,
+    "longitude": 73.8937,
+    "geocode":[18.5362,73.8937],
+    "publish year": 2019,
+    "menu": [
+      "Espresso",
+      "Cappuccino",
+      "Latte",
+      "Cold Brew",
+      "Masala Chai",
+      "Croissant",
+      "Veg Club Sandwich",
+      "Blueberry Muffin"
+    ]
+  },
+  {
+    "name": "Bavdhan Beanery",
+    "cafe-id": "PUN-0002",
+    "rating": 4.2,
+    "description": "Cozy neighborhood cafe in Bavdhan for flat whites, quick bites, and chill evenings.",
+    "images": [
+      "https://images.unsplash.com/photo-1504630083234-14187a9df0f5?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1528318269466-69d920af5dad?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5182,
+    "longitude": 73.7769,
+    "geocode":[18.5182,73.7769],
+    "publish year": 2017,
+    "menu": [
+      "Espresso",
+      "Flat White",
+      "Mocha",
+      "Iced Americano",
+      "Masala Chai",
+      "Paneer Tikka Sandwich",
+      "Garlic Bread",
+      "Chocolate Brownie"
+    ]
+  },
+  {
+    "name": "Aundh Aroma Cafe",
+    "cafe-id": "PUN-0003",
+    "rating": 4.4,
+    "description": "Warm, wood-toned spot in Aundh serving filter coffee and indulgent desserts.",
+    "images": [
+      "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.563,
+    "longitude": 73.807,
+    "geocode":[18.563,73.807],
+    "publish year": 2016,
+    "menu": [
+      "Filter Coffee",
+      "Cappuccino",
+      "Affogato",
+      "Nitro Cold Brew",
+      "Adrak Chai",
+      "Cheesecake",
+      "Peri-Peri Fries",
+      "Tiramisu"
+    ]
+  },
+  {
+    "name": "Viman Nagar Roastery",
+    "cafe-id": "PUN-0004",
+    "rating": 4.5,
+    "description": "Small-batch roastery near Viman Nagar colleges with lattes and light meals.",
+    "images": [
+      "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5679,
+    "longitude": 73.9143,
+    "geocode":[18.5679,73.9143],
+    "publish year": 2020,
+    "menu": [
+      "Espresso",
+      "Latte",
+      "Hazelnut Latte",
+      "Cold Coffee",
+      "Kashmiri Kahwa",
+      "Chicken Tikka Sandwich",
+      "Greek Salad",
+      "Chocolate Croissant"
+    ]
+  },
+  {
+    "name": "FC Road Espresso Bar",
+    "cafe-id": "PUN-0005",
+    "rating": 4.1,
+    "description": "Student-friendly espresso bar on FC Road with classic coffees and local snacks.",
+    "images": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600147131759-880e94a6185f?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5164,
+    "longitude": 73.8419,
+    "geocode":[18.5164,73.8419],
+    "publish year": 2015,
+    "menu": [
+      "South Indian Filter Coffee",
+      "Cappuccino",
+      "Americano",
+      "Iced Latte",
+      "Masala Chai",
+      "Poha",
+      "Misal Pav",
+      "Vegan Brownie"
+    ]
+  },
+  {
+    "name": "JM Road Coffee House",
+    "cafe-id": "PUN-0006",
+    "rating": 4.0,
+    "description": "Spacious cafe on JM Road offering crowd-pleasing brews and comfort eats.",
+    "images": [
+      "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1553909489-cd47e0907980?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5194,
+    "longitude": 73.8459,
+    "geocode":[18.5194,73.8459],
+    "publish year": 2014,
+    "menu": [
+      "Espresso",
+      "Cappuccino",
+      "Latte",
+      "Cold Brew",
+      "Masala Chai",
+      "Croissant",
+      "Veg Club Sandwich",
+      "Blueberry Muffin"
+    ]
+  },
+  {
+    "name": "Kalyani Nagar Caffeine Lab",
+    "cafe-id": "PUN-0007",
+    "rating": 4.3,
+    "description": "Bright, modern cafe in Kalyani Nagar experimenting with brews and flavors.",
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1493606278519-11aa9f86e40a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1550426735-c33c7ce414ff?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5526,
+    "longitude": 73.9042,
+    "geocode":[18.5526,73.9042],
+    "publish year": 2018,
+    "menu": [
+      "Espresso",
+      "Flat White",
+      "Mocha",
+      "Iced Americano",
+      "Masala Chai",
+      "Paneer Tikka Sandwich",
+      "Garlic Bread",
+      "Chocolate Brownie"
+    ]
+  },
+  {
+    "name": "Camp Grounds Cafe",
+    "cafe-id": "PUN-0008",
+    "rating": 4.2,
+    "description": "Relaxed Camp area hangout for cappuccinos, affogatos, and sweet treats.",
+    "images": [
+      "https://images.unsplash.com/photo-1485808191679-5f86510681a2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586985564150-11ee04838034?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5123,
+    "longitude": 73.8793,
+    "geocode":[18.5123,73.8793],
+    "publish year": 2016,
+    "menu": [
+      "Filter Coffee",
+      "Cappuccino",
+      "Affogato",
+      "Nitro Cold Brew",
+      "Adrak Chai",
+      "Cheesecake",
+      "Peri-Peri Fries",
+      "Tiramisu"
+    ]
+  },
+  {
+    "name": "Hinjewadi Hustle Cafe",
+    "cafe-id": "PUN-0009",
+    "rating": 4.5,
+    "description": "Work-friendly Hinjewadi spot with fast Wi-Fi, cold coffee, and hearty sandwiches.",
+    "images": [
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5913,
+    "longitude": 73.7389,
+    "geocode":[18.5913,73.7389],
+    "publish year": 2021,
+    "menu": [
+      "Espresso",
+      "Latte",
+      "Hazelnut Latte",
+      "Cold Coffee",
+      "Kashmiri Kahwa",
+      "Chicken Tikka Sandwich",
+      "Greek Salad",
+      "Chocolate Croissant"
+    ]
+  },
+  {
+    "name": "Baner Bakes & Brews",
+    "cafe-id": "PUN-0010",
+    "rating": 4.4,
+    "description": "Popular Baner bakery-cafe pairing specialty coffee with fresh bakes.",
+    "images": [
+      "https://images.unsplash.com/photo-1508737804141-4c3b688e2546?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.559,
+    "longitude": 73.789,
+    "geocode":[18.559,73.789],
+    "publish year": 2022,
+    "menu": [
+      "South Indian Filter Coffee",
+      "Cappuccino",
+      "Americano",
+      "Iced Latte",
+      "Masala Chai",
+      "Poha",
+      "Misal Pav",
+      "Vegan Brownie"
+    ]
+  },
+  {
+    "name": "Pashan Perk Station",
+    "cafe-id": "PUN-0011",
+    "rating": 4.1,
+    "description": "Quiet Pashan nook for morning brews, sandwiches, and muffins.",
+    "images": [
+      "https://images.unsplash.com/photo-1509785307050-d4066910ec1e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.546,
+    "longitude": 73.792,
+    "geocode":[18.546,73.792],
+    "publish year": 2018,
+    "menu": [
+      "Espresso",
+      "Cappuccino",
+      "Latte",
+      "Cold Brew",
+      "Masala Chai",
+      "Croissant",
+      "Veg Club Sandwich",
+      "Blueberry Muffin"
+    ]
+  },
+  {
+    "name": "Kothrud Kettle Cafe",
+    "cafe-id": "PUN-0012",
+    "rating": 4.2,
+    "description": "Casual Kothrud cafe serving classics, chai, and comfort sides.",
+    "images": [
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1529892485617-25f63cd7b1e9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5074,
+    "longitude": 73.8077,
+    "geocode":[18.5074,73.8077],
+    "publish year": 2015,
+    "menu": [
+      "Espresso",
+      "Flat White",
+      "Mocha",
+      "Iced Americano",
+      "Masala Chai",
+      "Paneer Tikka Sandwich",
+      "Garlic Bread",
+      "Chocolate Brownie"
+    ]
+  },
+  {
+    "name": "Wakad Workbench Cafe",
+    "cafe-id": "PUN-0013",
+    "rating": 4.3,
+    "description": "Cowork-friendly Wakad cafe with nitro cold brew and sweet endings.",
+    "images": [
+      "https://images.unsplash.com/photo-1545319261-f3760f9dd64d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1556745750-68295fefafc5?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5952,
+    "longitude": 73.7684,
+    "geocode":[18.5952,73.7684],
+    "publish year": 2023,
+    "menu": [
+      "Filter Coffee",
+      "Cappuccino",
+      "Affogato",
+      "Nitro Cold Brew",
+      "Adrak Chai",
+      "Cheesecake",
+      "Peri-Peri Fries",
+      "Tiramisu"
+    ]
+  },
+  {
+    "name": "Magarpatta Mug & Muffin",
+    "cafe-id": "PUN-0014",
+    "rating": 4.5,
+    "description": "Family-friendly Magarpatta cafe with creamy lattes and light salads.",
+    "images": [
+      "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1490457843367-34b21b6ccd85?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5109,
+    "longitude": 73.927,
+    "geocode":[18.5109,73.927],
+    "publish year": 2019,
+    "menu": [
+      "Espresso",
+      "Latte",
+      "Hazelnut Latte",
+      "Cold Coffee",
+      "Kashmiri Kahwa",
+      "Chicken Tikka Sandwich",
+      "Greek Salad",
+      "Chocolate Croissant"
+    ]
+  },
+  {
+    "name": "Hadapsar Heritage Cafe",
+    "cafe-id": "PUN-0015",
+    "rating": 3.9,
+    "description": "Old-school Hadapsar charm with filter coffee and Maharashtrian bites.",
+    "images": [
+      "https://images.unsplash.com/photo-1597528662465-55ece5734101?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600628421066-f6bda6a7b976?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.4963,
+    "longitude": 73.9419,
+    "geocode":[18.4963,73.9419],
+    "publish year": 2014,
+    "menu": [
+      "South Indian Filter Coffee",
+      "Cappuccino",
+      "Americano",
+      "Iced Latte",
+      "Masala Chai",
+      "Poha",
+      "Misal Pav",
+      "Vegan Brownie"
+    ]
+  },
+  {
+    "name": "Swargate Sip Stop",
+    "cafe-id": "PUN-0016",
+    "rating": 4.0,
+    "description": "Transit-friendly Swargate stop for quick espresso, snacks, and sweets.",
+    "images": [
+      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1520218508822-998633d997e6?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.501,
+    "longitude": 73.8631,
+    "geocode":[18.501,73.8631],
+    "publish year": 2016,
+    "menu": [
+      "Espresso",
+      "Macchiato",
+      "Cortado",
+      "Iced Mocha",
+      "Masala Chai",
+      "Veg Puff",
+      "Samosa",
+      "Banoffee Pie"
+    ]
+  },
+  {
+    "name": "Karve Nagar Kappi",
+    "cafe-id": "PUN-0017",
+    "rating": 4.1,
+    "description": "South Indian-style coffee bar in Karve Nagar with local favorites.",
+    "images": [
+      "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540914124281-342587941389?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.4866,
+    "longitude": 73.8075,
+    "geocode":[18.4866,73.8075],
+    "publish year": 2015,
+    "menu": [
+      "Filter Coffee",
+      "Cappuccino",
+      "Latte",
+      "Turmeric Latte",
+      "Irani Chai",
+      "Vada Pav",
+      "Veg Club Sandwich",
+      "Chocolate Mousse"
+    ]
+  },
+  {
+    "name": "Katraj Cozy Cup",
+    "cafe-id": "PUN-0018",
+    "rating": 3.8,
+    "description": "Budget-friendly Katraj corner for iced coffees, rolls, and cakes.",
+    "images": [
+      "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1604909052743-94e838986d24?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.451,
+    "longitude": 73.865,
+    "geocode":[18.451,73.865],
+    "publish year": 2018,
+    "menu": [
+      "Espresso",
+      "Cappuccino",
+      "Cold Brew",
+      "Iced Americano",
+      "Lemon Tea",
+      "Paneer Kathi Roll",
+      "Hummus Pita",
+      "Red Velvet Slice"
+    ]
+  },
+  {
+    "name": "Shivajinagar Steam & Sip",
+    "cafe-id": "PUN-0019",
+    "rating": 4.2,
+    "description": "Bustling Shivajinagar cafe offering flat whites and savory paninis.",
+    "images": [
+      "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1514066558159-fc8c737ef259?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5308,
+    "longitude": 73.8476,
+    "geocode":[18.5308,73.8476],
+    "publish year": 2020,
+    "menu": [
+      "South Indian Filter Coffee",
+      "Flat White",
+      "Cappuccino",
+      "Affogato",
+      "Masala Chai",
+      "Chicken Panini",
+      "Caesar Salad",
+      "Cheesecake"
+    ]
+  },
+  {
+    "name": "Pune Station Chai & Coffee",
+    "cafe-id": "PUN-0020",
+    "rating": 4.0,
+    "description": "Convenient station-side cafe brewing chai, coffee, and grab-and-go bites.",
+    "images": [
+      "https://foodish-api.com/images/dessert/dessert32.jpg",
+      "https://foodish-api.com/images/coffee/coffee2.jpg",
+      "https://foodish-api.com/images/coffee/coffee30.jpg"
+    ],
+    "latitude": 18.5285,
+    "longitude": 73.8745,
+    "geocode":[18.5285,73.8745],
+    "publish year": 2013,
+    "menu": [
+      "Espresso",
+      "Latte",
+      "Mocha",
+      "Hot Chocolate",
+      "Assam Chai",
+      "Veg Sandwich",
+      "Chocolate Doughnut",
+      "Blueberry Muffin"
+    ]
+  }
+]
