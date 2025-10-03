@@ -11,7 +11,10 @@
     ],
     "latitude": 18.5362,
     "longitude": 73.8937,
-    "geocode":[18.5362,73.8937],
+    "geocode": [
+      18.5362,
+      73.8937
+    ],
     "publish year": 2019,
     "menu": [
       "Espresso",
@@ -36,7 +39,10 @@
     ],
     "latitude": 18.5182,
     "longitude": 73.7769,
-    "geocode":[18.5182,73.7769],
+    "geocode": [
+      18.5182,
+      73.7769
+    ],
     "publish year": 2017,
     "menu": [
       "Espresso",
@@ -61,7 +67,10 @@
     ],
     "latitude": 18.563,
     "longitude": 73.807,
-    "geocode":[18.563,73.807],
+    "geocode": [
+      18.563,
+      73.807
+    ],
     "publish year": 2016,
     "menu": [
       "Filter Coffee",
@@ -86,7 +95,10 @@
     ],
     "latitude": 18.5679,
     "longitude": 73.9143,
-    "geocode":[18.5679,73.9143],
+    "geocode": [
+      18.5679,
+      73.9143
+    ],
     "publish year": 2020,
     "menu": [
       "Espresso",
@@ -111,7 +123,10 @@
     ],
     "latitude": 18.5164,
     "longitude": 73.8419,
-    "geocode":[18.5164,73.8419],
+    "geocode": [
+      18.5164,
+      73.8419
+    ],
     "publish year": 2015,
     "menu": [
       "South Indian Filter Coffee",
@@ -136,7 +151,10 @@
     ],
     "latitude": 18.5194,
     "longitude": 73.8459,
-    "geocode":[18.5194,73.8459],
+    "geocode": [
+      18.5194,
+      73.8459
+    ],
     "publish year": 2014,
     "menu": [
       "Espresso",
@@ -161,7 +179,10 @@
     ],
     "latitude": 18.5526,
     "longitude": 73.9042,
-    "geocode":[18.5526,73.9042],
+    "geocode": [
+      18.5526,
+      73.9042
+    ],
     "publish year": 2018,
     "menu": [
       "Espresso",
@@ -186,7 +207,10 @@
     ],
     "latitude": 18.5123,
     "longitude": 73.8793,
-    "geocode":[18.5123,73.8793],
+    "geocode": [
+      18.5123,
+      73.8793
+    ],
     "publish year": 2016,
     "menu": [
       "Filter Coffee",
@@ -211,7 +235,10 @@
     ],
     "latitude": 18.5913,
     "longitude": 73.7389,
-    "geocode":[18.5913,73.7389],
+    "geocode": [
+      18.5913,
+      73.7389
+    ],
     "publish year": 2021,
     "menu": [
       "Espresso",
@@ -236,7 +263,10 @@
     ],
     "latitude": 18.559,
     "longitude": 73.789,
-    "geocode":[18.559,73.789],
+    "geocode": [
+      18.559,
+      73.789
+    ],
     "publish year": 2022,
     "menu": [
       "South Indian Filter Coffee",
@@ -261,7 +291,10 @@
     ],
     "latitude": 18.546,
     "longitude": 73.792,
-    "geocode":[18.546,73.792],
+    "geocode": [
+      18.546,
+      73.792
+    ],
     "publish year": 2018,
     "menu": [
       "Espresso",
@@ -286,7 +319,10 @@
     ],
     "latitude": 18.5074,
     "longitude": 73.8077,
-    "geocode":[18.5074,73.8077],
+    "geocode": [
+      18.5074,
+      73.8077
+    ],
     "publish year": 2015,
     "menu": [
       "Espresso",
@@ -311,7 +347,10 @@
     ],
     "latitude": 18.5952,
     "longitude": 73.7684,
-    "geocode":[18.5952,73.7684],
+    "geocode": [
+      18.5952,
+      73.7684
+    ],
     "publish year": 2023,
     "menu": [
       "Filter Coffee",
@@ -336,7 +375,10 @@
     ],
     "latitude": 18.5109,
     "longitude": 73.927,
-    "geocode":[18.5109,73.927],
+    "geocode": [
+      18.5109,
+      73.927
+    ],
     "publish year": 2019,
     "menu": [
       "Espresso",
@@ -361,7 +403,10 @@
     ],
     "latitude": 18.4963,
     "longitude": 73.9419,
-    "geocode":[18.4963,73.9419],
+    "geocode": [
+      18.4963,
+      73.9419
+    ],
     "publish year": 2014,
     "menu": [
       "South Indian Filter Coffee",
@@ -386,7 +431,10 @@
     ],
     "latitude": 18.501,
     "longitude": 73.8631,
-    "geocode":[18.501,73.8631],
+    "geocode": [
+      18.501,
+      73.8631
+    ],
     "publish year": 2016,
     "menu": [
       "Espresso",
@@ -411,7 +459,10 @@
     ],
     "latitude": 18.4866,
     "longitude": 73.8075,
-    "geocode":[18.4866,73.8075],
+    "geocode": [
+      18.4866,
+      73.8075
+    ],
     "publish year": 2015,
     "menu": [
       "Filter Coffee",
@@ -436,7 +487,10 @@
     ],
     "latitude": 18.451,
     "longitude": 73.865,
-    "geocode":[18.451,73.865],
+    "geocode": [
+      18.451,
+      73.865
+    ],
     "publish year": 2018,
     "menu": [
       "Espresso",
@@ -461,7 +515,10 @@
     ],
     "latitude": 18.5308,
     "longitude": 73.8476,
-    "geocode":[18.5308,73.8476],
+    "geocode": [
+      18.5308,
+      73.8476
+    ],
     "publish year": 2020,
     "menu": [
       "South Indian Filter Coffee",
@@ -486,7 +543,10 @@
     ],
     "latitude": 18.5285,
     "longitude": 73.8745,
-    "geocode":[18.5285,73.8745],
+    "geocode": [
+      18.5285,
+      73.8745
+    ],
     "publish year": 2013,
     "menu": [
       "Espresso",
@@ -497,6 +557,566 @@
       "Veg Sandwich",
       "Chocolate Doughnut",
       "Blueberry Muffin"
+    ]
+  },
+  {
+    "name": "Chinchwad Station Brew House",
+    "cafe-id": "PCMC-0001",
+    "rating": 4.3,
+    "description": "Modern cafe near Chinchwad station serving artisanal coffee and quick bites for commuters.",
+    "images": [
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1442512595331-e89e73853f31?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6298,
+    "longitude": 73.7997,
+    "geocode": [
+      18.6298,
+      73.7997
+    ],
+    "publish year": 2019,
+    "menu": [
+      "Espresso",
+      "Cappuccino",
+      "Cold Brew",
+      "Iced Latte",
+      "Masala Chai",
+      "Vada Pav",
+      "Cheese Grilled Sandwich",
+      "Chocolate Brownie"
+    ]
+  },
+  {
+    "name": "Pimpri Coffee Culture",
+    "cafe-id": "PCMC-0002",
+    "rating": 4.5,
+    "description": "Cozy industrial-chic cafe in Pimpri with specialty roasts and fusion snacks.",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6239,
+    "longitude": 73.8125,
+    "geocode": [
+      18.6239,
+      73.8125
+    ],
+    "publish year": 2020,
+    "menu": [
+      "Pour Over Coffee",
+      "Flat White",
+      "Mocha",
+      "Nitro Cold Brew",
+      "Adrak Chai",
+      "Paneer Tikka Wrap",
+      "Nachos",
+      "Tiramisu"
+    ]
+  },
+  {
+    "name": "Akurdi Aroma Point",
+    "cafe-id": "PCMC-0003",
+    "rating": 4.1,
+    "description": "Student-friendly cafe near Akurdi railway station with affordable coffee and snacks.",
+    "images": [
+      "https://images.unsplash.com/photo-1504630083234-14187a9df0f5?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1528318269466-69d920af5dad?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1485808191679-5f86510681a2?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6505,
+    "longitude": 73.7699,
+    "geocode": [
+      18.6505,
+      73.7699
+    ],
+    "publish year": 2018,
+    "menu": [
+      "Filter Coffee",
+      "Cappuccino",
+      "Cold Coffee",
+      "Lemon Iced Tea",
+      "Cutting Chai",
+      "Misal Pav",
+      "Veg Burger",
+      "Chocolate Cake"
+    ]
+  },
+  {
+    "name": "Thermax Chowk Cafe Hub",
+    "cafe-id": "PCMC-0004",
+    "rating": 4.4,
+    "description": "Spacious cafe at Thermax Chowk perfect for meetings with great Wi-Fi and coffee.",
+    "images": [
+      "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6467,
+    "longitude": 73.7942,
+    "geocode": [
+      18.6467,
+      73.7942
+    ],
+    "publish year": 2021,
+    "menu": [
+      "Espresso",
+      "Americano",
+      "Hazelnut Latte",
+      "Frappuccino",
+      "Green Tea",
+      "Club Sandwich",
+      "Caesar Salad",
+      "Blueberry Cheesecake"
+    ]
+  },
+  {
+    "name": "Nigdi Nest Cafe",
+    "cafe-id": "PCMC-0005",
+    "rating": 4.2,
+    "description": "Neighborhood favorite in Nigdi with homestyle food and freshly brewed coffee.",
+    "images": [
+      "https://images.unsplash.com/photo-1498804103079-a6351b050096?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600147131759-880e94a6185f?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1553909489-cd47e0907980?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6515,
+    "longitude": 73.7621,
+    "geocode": [
+      18.6515,
+      73.7621
+    ],
+    "publish year": 2017,
+    "menu": [
+      "South Indian Filter Coffee",
+      "Cappuccino",
+      "Iced Americano",
+      "Hot Chocolate",
+      "Masala Chai",
+      "Poha",
+      "Samosa Chaat",
+      "Walnut Brownie"
+    ]
+  },
+  {
+    "name": "Bhosari Bean Box",
+    "cafe-id": "PCMC-0006",
+    "rating": 3.9,
+    "description": "Industrial area cafe in Bhosari catering to office crowd with quick service.",
+    "images": [
+      "https://images.unsplash.com/photo-1493606278519-11aa9f86e40a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1550426735-c33c7ce414ff?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6359,
+    "longitude": 73.8442,
+    "geocode": [
+      18.6359,
+      73.8442
+    ],
+    "publish year": 2016,
+    "menu": [
+      "Instant Coffee",
+      "Cappuccino",
+      "Cold Coffee",
+      "Ice Tea",
+      "Regular Tea",
+      "Bread Omelette",
+      "Maggi",
+      "Cookies"
+    ]
+  },
+  {
+    "name": "Moshi Mocha Station",
+    "cafe-id": "PCMC-0007",
+    "rating": 4.6,
+    "description": "Premium cafe in Moshi with imported beans and gourmet desserts.",
+    "images": [
+      "https://images.unsplash.com/photo-1508737804141-4c3b688e2546?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586985564150-11ee04838034?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6739,
+    "longitude": 73.8356,
+    "geocode": [
+      18.6739,
+      73.8356
+    ],
+    "publish year": 2022,
+    "menu": [
+      "Ethiopian Single Origin",
+      "Cortado",
+      "Affogato",
+      "Matcha Latte",
+      "Chamomile Tea",
+      "Avocado Toast",
+      "Quinoa Salad",
+      "Red Velvet Cake"
+    ]
+  },
+  {
+    "name": "Ravet Roastery",
+    "cafe-id": "PCMC-0008",
+    "rating": 4.3,
+    "description": "Small-batch coffee roastery in Ravet with live roasting demonstrations.",
+    "images": [
+      "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1514066558159-fc8c737ef259?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6583,
+    "longitude": 73.7289,
+    "geocode": [
+      18.6583,
+      73.7289
+    ],
+    "publish year": 2021,
+    "menu": [
+      "V60 Pour Over",
+      "Aeropress",
+      "French Press",
+      "Cold Drip",
+      "Cascara Tea",
+      "Croissant",
+      "Focaccia Sandwich",
+      "Chocolate Tart"
+    ]
+  },
+  {
+    "name": "Talawade Tea & Coffee Corner",
+    "cafe-id": "PCMC-0009",
+    "rating": 4.0,
+    "description": "Budget cafe in Talawade IT park area with decent coffee and working space.",
+    "images": [
+      "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1545319261-f3760f9dd64d?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6683,
+    "longitude": 73.7685,
+    "geocode": [
+      18.6683,
+      73.7685
+    ],
+    "publish year": 2019,
+    "menu": [
+      "Espresso",
+      "Latte",
+      "Iced Coffee",
+      "Green Tea",
+      "Ginger Tea",
+      "Veg Puff",
+      "Pizza Slice",
+      "Muffins"
+    ]
+  },
+  {
+    "name": "Chakan Chai & More",
+    "cafe-id": "PCMC-0010",
+    "rating": 3.8,
+    "description": "Highway-side cafe in Chakan with traditional chai and regional snacks.",
+    "images": [
+      "https://images.unsplash.com/photo-1509785307050-d4066910ec1e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1529892485617-25f63cd7b1e9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600628421066-f6bda6a7b976?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.7608,
+    "longitude": 73.8633,
+    "geocode": [
+      18.7608,
+      73.8633
+    ],
+    "publish year": 2015,
+    "menu": [
+      "Filter Coffee",
+      "Cappuccino",
+      "Cold Coffee",
+      "Special Chai",
+      "Irani Chai",
+      "Bun Maska",
+      "Kanda Bhaji",
+      "Jalebi"
+    ]
+  },
+  {
+    "name": "Kasarwadi Coffee Club",
+    "cafe-id": "PCMC-0011",
+    "rating": 4.1,
+    "description": "Community cafe in Kasarwadi with book exchange and board games.",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1556745750-68295fefafc5?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6084,
+    "longitude": 73.8214,
+    "geocode": [
+      18.6084,
+      73.8214
+    ],
+    "publish year": 2020,
+    "menu": [
+      "House Blend Coffee",
+      "Flat White",
+      "Mocha",
+      "Iced Tea",
+      "Masala Chai",
+      "Grilled Sandwich",
+      "French Fries",
+      "Pancakes"
+    ]
+  },
+  {
+    "name": "Dapodi Drip Station",
+    "cafe-id": "PCMC-0012",
+    "rating": 4.2,
+    "description": "Military area adjacent cafe in Dapodi with patriotic theme and strong coffee.",
+    "images": [
+      "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1490457843367-34b21b6ccd85?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1520218508822-998633d997e6?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5718,
+    "longitude": 73.8194,
+    "geocode": [
+      18.5718,
+      73.8194
+    ],
+    "publish year": 2018,
+    "menu": [
+      "Black Coffee",
+      "Cappuccino",
+      "Irish Coffee",
+      "Bulletproof Coffee",
+      "Kadak Chai",
+      "Egg Sandwich",
+      "Chicken Roll",
+      "Fruit Cake"
+    ]
+  },
+  {
+    "name": "Sant Tukaram Nagar Sips",
+    "cafe-id": "PCMC-0013",
+    "rating": 4.0,
+    "description": "Residential area cafe in Sant Tukaram Nagar with family-friendly ambiance.",
+    "images": [
+      "https://images.unsplash.com/photo-1597528662465-55ece5734101?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6295,
+    "longitude": 73.8102,
+    "geocode": [
+      18.6295,
+      73.8102
+    ],
+    "publish year": 2017,
+    "menu": [
+      "Regular Coffee",
+      "Cappuccino",
+      "Frappe",
+      "Chocolate Shake",
+      "Lemon Tea",
+      "Pasta",
+      "Garlic Bread",
+      "Ice Cream Sundae"
+    ]
+  },
+  {
+    "name": "Pimple Saudagar Plaza Cafe",
+    "cafe-id": "PCMC-0014",
+    "rating": 4.4,
+    "description": "Mall cafe in Pimple Saudagar with panoramic views and premium coffee.",
+    "images": [
+      "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5912,
+    "longitude": 73.7989,
+    "geocode": [
+      18.5912,
+      73.7989
+    ],
+    "publish year": 2023,
+    "menu": [
+      "Specialty Coffee",
+      "Macchiato",
+      "Vienna Coffee",
+      "Smoothie Bowl",
+      "Hibiscus Tea",
+      "Eggs Benedict",
+      "Greek Salad",
+      "Macarons"
+    ]
+  },
+  {
+    "name": "Pimple Gurav Garden Cafe",
+    "cafe-id": "PCMC-0015",
+    "rating": 4.1,
+    "description": "Garden cafe in Pimple Gurav with outdoor seating and organic menu.",
+    "images": [
+      "https://images.unsplash.com/photo-1604909052743-94e838986d24?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5894,
+    "longitude": 73.8137,
+    "geocode": [
+      18.5894,
+      73.8137
+    ],
+    "publish year": 2019,
+    "menu": [
+      "Organic Coffee",
+      "Turmeric Latte",
+      "Kombucha",
+      "Detox Juice",
+      "Herbal Tea",
+      "Buddha Bowl",
+      "Multigrain Sandwich",
+      "Raw Desserts"
+    ]
+  },
+  {
+    "name": "Sangvi Square Coffee",
+    "cafe-id": "PCMC-0016",
+    "rating": 3.9,
+    "description": "Corner cafe in Sangvi with student discounts and study-friendly environment.",
+    "images": [
+      "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540914124281-342587941389?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.5798,
+    "longitude": 73.8268,
+    "geocode": [
+      18.5798,
+      73.8268
+    ],
+    "publish year": 2016,
+    "menu": [
+      "Budget Coffee",
+      "Cappuccino",
+      "Cold Coffee",
+      "Oreo Shake",
+      "Chai",
+      "Maggi",
+      "Toast Sandwich",
+      "Cookies"
+    ]
+  },
+  {
+    "name": "Thergaon Terrace Cafe",
+    "cafe-id": "PCMC-0017",
+    "rating": 4.5,
+    "description": "Rooftop cafe in Thergaon with sunset views and live music weekends.",
+    "images": [
+      "https://foodish-api.com/images/dessert/dessert32.jpg",
+      "https://foodish-api.com/images/coffee/coffee2.jpg",
+      "https://foodish-api.com/images/coffee/coffee30.jpg"
+    ],
+    "latitude": 18.6142,
+    "longitude": 73.7736,
+    "geocode": [
+      18.6142,
+      73.7736
+    ],
+    "publish year": 2022,
+    "menu": [
+      "Signature Blend",
+      "Spanish Latte",
+      "Turkish Coffee",
+      "Mojito",
+      "Mint Tea",
+      "Wood-fired Pizza",
+      "Mezze Platter",
+      "Churros"
+    ]
+  },
+  {
+    "name": "Tathawade Tech Cafe",
+    "cafe-id": "PCMC-0018",
+    "rating": 4.3,
+    "description": "IT park cafe in Tathawade with co-working space and power outlets at every table.",
+    "images": [
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6289,
+    "longitude": 73.7456,
+    "geocode": [
+      18.6289,
+      73.7456
+    ],
+    "publish year": 2021,
+    "menu": [
+      "Programmer's Fuel (Extra Strong)",
+      "Flat White",
+      "Iced Latte",
+      "Energy Drinks",
+      "Green Tea",
+      "All-Day Breakfast",
+      "Protein Bowl",
+      "Energy Bars"
+    ]
+  },
+  {
+    "name": "Chikhali Chai Tapri",
+    "cafe-id": "PCMC-0019",
+    "rating": 3.7,
+    "description": "Traditional tea stall upgraded to modern cafe in Chikhali with nostalgic vibes.",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1485808191679-5f86510681a2?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6856,
+    "longitude": 73.8521,
+    "geocode": [
+      18.6856,
+      73.8521
+    ],
+    "publish year": 2014,
+    "menu": [
+      "Cutting Chai",
+      "Instant Coffee",
+      "Bournvita",
+      "Nimbu Pani",
+      "Special Adrak Chai",
+      "Bun Maska",
+      "Khari Biscuit",
+      "Cream Roll"
+    ]
+  },
+  {
+    "name": "Dehu Road Depot Cafe",
+    "cafe-id": "PCMC-0020",
+    "rating": 4.0,
+    "description": "Transit cafe near Dehu Road station perfect for travelers and local military personnel.",
+    "images": [
+      "https://images.unsplash.com/photo-1504630083234-14187a9df0f5?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop"
+    ],
+    "latitude": 18.6773,
+    "longitude": 73.7184,
+    "geocode": [
+      18.6773,
+      73.7184
+    ],
+    "publish year": 2013,
+    "menu": [
+      "Railway Special Coffee",
+      "Military Cappuccino",
+      "Cold Coffee",
+      "Badam Milk",
+      "Masala Chai",
+      "Aloo Paratha",
+      "Railway Cutlet",
+      "Plum Cake"
     ]
   }
 ]
