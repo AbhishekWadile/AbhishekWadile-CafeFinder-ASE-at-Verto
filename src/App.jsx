@@ -14,6 +14,7 @@ function App() {
 
   return (
     <>
+
      <Navbar/>
      <Landing/>
      <Map/>
@@ -23,6 +24,7 @@ function App() {
      <Card/>
      <FLanding/>
      <Footer/>
+
     </>
   )
 }
