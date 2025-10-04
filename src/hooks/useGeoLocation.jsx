@@ -24,7 +24,7 @@ function useGeoLocation() {
       (err) => {
         setLocation({ loaded: true, error: err.message });
       },
-      { enableHighAccuracy: true, timeout: 10000 }
+      { enableHighAccuracy: true }
     );
   }, []);
 
