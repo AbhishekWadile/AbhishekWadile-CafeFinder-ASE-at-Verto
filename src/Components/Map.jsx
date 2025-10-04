@@ -12,7 +12,7 @@ import {
   Popup,
   TileLayer,
 } from "react-leaflet";
-import { icon, Icon } from "leaflet";
+import { Icon } from "leaflet";
 import useGeoLocation from "../hooks/useGeoLocation";
 import Spinner from "./Spinner";
 import useHaverSinKm from "../hooks/useHaverSinKm";
@@ -40,7 +40,7 @@ function Map() {
     }
   }, [location]);
 
-  useEffect( () => {
+  useEffect(() => {
     if (!userPos) return;
     const [uLat, uLng] = userPos;
     let min = Infinity;
@@ -54,19 +54,6 @@ function Map() {
     }
     setNearest(nearestCafe);
   }, [userPos]);
-
-
-  // const showMyLocation = () =>{
-  //   if(location.loaded && !location.error){
-  //     mapRef.current.leaflateElement.flyTo(
-  //       [location.coordinates.lat,location.coordinates.lng],
-  //       ZOOM_LEVEL,
-  //       {animation:true}
-  //     );
-  //   }else{
-  //     alert(location.error.message);
-  //   }
-  // }
 
   return (
     <div className="border-[1px] font-sans flex flex-col gap-3 justify-center items-center md:min-h-[80vh]">
@@ -92,25 +79,40 @@ function Map() {
               ></Marker>
             )}
 
-            {cafeData.map((marker, index) => (
-              <Marker key={index} position={marker.geocode} icon={customIcon}>
-                <Popup>
-                  <div className="text-sm">
-                    <h2 className="font-bold">{marker.name}</h2>
-                    <p>{marker.description}</p>
+            {userPos &&
+              cafeData
+                .filter((cafe) => {
+                  const d = useHaver(
+                    userPos[0],
+                    userPos[1],
+                    cafe.latitude,
+                    cafe.longitude
+                  );
+                  return d <= 5; // show cafes within 5 km
+                })
+                .map((marker, index) => (
+                  <Marker
+                    key={index}
+                    position={[marker.latitude, marker.longitude]}
+                    icon={customIcon}
+                  >
+                    <Popup>
+                      <div className="text-sm">
+                        <h2 className="font-bold">{marker.name}</h2>
+                        <p>{marker.description}</p>
+                        {marker.images && marker.images[0] && (
+                          <img
+                            src={marker.images[0]}
+                            alt={marker.name}
+                            className="mt-2 w-32 h-24 object-cover rounded"
+                          />
+                        )}
+                      </div>
+                    </Popup>
+                  </Marker>
+                ))}
 
-                    {/* Show image if available */}
-                    {marker.images && marker.images[0] && (
-                      <img
-                        src={marker.images[0]}
-                        alt={marker.name}
-                        className="mt-2 w-32 h-24 object-cover rounded"
-                      />
-                    )}
-                  </div>
-                </Popup>
-              </Marker>
-            ))}
+            
             {userPos && nearest && (
               <Polyline
                 positions={[userPos, [nearest.latitude, nearest.longitude]]}
