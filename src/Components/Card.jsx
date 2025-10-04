@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import cafeData from "../indian_cafes_5000_sample.json";
+import cafeData from "../data/indian_cafes_5000_sample.json";
 import Stars from "./Stars";
 import useGeoLocation from "../hooks/useGeoLocation";
 import useHaverSinKm from "../hooks/useHaverSinKm";

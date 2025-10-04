@@ -1,40 +1,34 @@
-import React from 'react'
-import { useEffect } from 'react'
-import { useState } from 'react'
+import { useState, useEffect } from "react";
 
 function useGeoLocation() {
-    const [location,setLocation] = useState({
-        loaded:false,
-        coordinates:{lat:"",lng:""}
-    })
+  const [location, setLocation] = useState({
+    loaded: false,
+    coordinates: { lat: "", lng: "" },
+    error: null,
+  });
 
-    const onSuccess = (location)=>{
-        setLocation({
-            loaded:true,
-            coordinates:{
-                lat: location.coords.latitude,
-                lng: location.coords.longitude
-            }
-        })
+  useEffect(() => {
+    if (!navigator.geolocation) {
+      setLocation({ loaded: true, error: "Geolocation not supported" });
+      return;
     }
-    const onError = (error)=>{
+
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
         setLocation({
-            loaded:true,
-            error
-        })
-    }
-    useEffect(()=>{
-        if(!("geolocation" in navigator)){
-            onError({
-                code:0,
-                message:"Geolocation not supported"
-                
-            });
-        }
-        navigator.geolocation.getCurrentPosition(onSuccess,onError)
-    },[])
-    
+          loaded: true,
+          coordinates: { lat: pos.coords.latitude, lng: pos.coords.longitude },
+          error: null,
+        });
+      },
+      (err) => {
+        setLocation({ loaded: true, error: err.message });
+      },
+      { enableHighAccuracy: true, timeout: 10000 }
+    );
+  }, []);
+
   return location;
 }
 
-export default useGeoLocation
+export default useGeoLocation;
